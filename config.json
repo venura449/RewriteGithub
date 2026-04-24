@@ -1,0 +1,55 @@
+{
+  "project_dir": "C:\\Users\\Venura\\Documents\\Vesak_Pandol",
+
+  "github": {
+    "repo_url": "https://github.com/venura449/Vesak_Pandol.git",
+    "branch": "main",
+    "members": [
+      {
+        "name": "Venura",
+        "email": "venurajayasingha1@gmail.com"
+      },
+      {
+        "name": "Gayasha",
+        "email": "IT23150416@my.sliit.lk"
+      }
+    ]
+  },
+
+  "schedule": {
+    "start_date": "2026-03-10",
+    "end_date": "2026-04-24",
+    "commits_per_day_min": 1,
+    "commits_per_day_max": 4,
+    "active_hours_start": 9,
+    "active_hours_end": 22
+  },
+
+  "commit": {
+    "files_per_commit_min": 1,
+    "files_per_commit_max": 5,
+    "messages": [
+      "Add {filename}",
+      "Update {filename}",
+      "Refactor {filename}",
+      "Fix issues in {filename}",
+      "Improve {filename}",
+      "Clean up {filename}",
+      "Initial implementation of {filename}",
+      "Add feature to {filename}",
+      "Polish {filename}",
+      "Work on {filename}"
+    ]
+  },
+
+  "ignore": [
+    ".git",
+    "__pycache__",
+    "node_modules",
+    ".env",
+    "*.pyc",
+    "*.log",
+    ".DS_Store",
+    "Thumbs.db"
+  ]
+}
